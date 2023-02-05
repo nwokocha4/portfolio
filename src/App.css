@@ -26,6 +26,7 @@
   background-color: black;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   height: 80px;
   z-index: 1;
   width: 100%;
@@ -46,7 +47,7 @@
   align-items: center;
   cursor: pointer;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding: 1.5rem;
   
 }
@@ -224,7 +225,7 @@ display: none;
 */
   .nav-icon {
     display: block;
-    margin-top: 25px;
+  
     margin-right: 25px;
     
     
