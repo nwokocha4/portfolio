@@ -262,7 +262,7 @@ color: white;
 .main__container {
   display: flex;
   grid-template-columns: 1fr 1fr;
-  
+ 
   justify-content: center;
   margin: 0 auto;
   height: 90vh;
@@ -395,7 +395,8 @@ margin-left: 40px;}
       padding-top: 0px;
       width: 100%;
       margin: 0 auto;
-      height: 110vh;
+      height: 90vh;
+      align-content: baseline;
   }
   .j {
     display: grid;
@@ -625,7 +626,7 @@ height: 80px;
    
    margin: 0 auto;  
    justify-content: center; 
-   height: 120vh; 
+   height: 100vh; 
    z-index: 1;
   
    width: 100%;
