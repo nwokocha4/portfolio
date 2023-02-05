@@ -433,12 +433,12 @@ margin-left: 40px;}
 
   .main__content p {
       
-      font-size: 1rem;
+      font-size: 1.5rem;
   }
 
   .main__content h3 {
     
-    
+    font-size: 1.5rem;
   }
 
   .main__content h4
@@ -474,7 +474,7 @@ margin-left: 40px;}
 
   .main__content h1 {
       font-size: 2rem;
-      margin-top: 2rem;
+      
 
   }
 
@@ -484,7 +484,7 @@ margin-left: 40px;}
 
   .main__content p {
       margin-top: 2rem;
-      font-size: 1rem;
+      font-size: 1.5rem;
   }
 
   .main__btn {
