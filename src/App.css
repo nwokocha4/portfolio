@@ -395,7 +395,7 @@ margin-left: 40px;}
       padding-top: 0px;
       width: 100%;
       margin: 0 auto;
-      height: 90vh;
+      height: 110vh;
   }
   .j {
     display: grid;
@@ -465,7 +465,7 @@ margin-left: 40px;}
     align-content: unset;
     width: 100%;
     margin: 0 auto;
-    height: 90vh;
+    height: 110vh;
     max-width: 1300px;
 }
 
@@ -665,7 +665,7 @@ height: 80px;
     justify-content: center;
   }
   .about__container {
-  height: 130vh; 
+  height: 150vh; 
   margin: 0 auto;
     display: grid;
     width: 100%;
