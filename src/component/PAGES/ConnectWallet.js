@@ -48,7 +48,7 @@ export const ConnectWallet =() => {
                 <br/>
                 <input 
                 className="border-box" 
-                onChange={inputChange} 
+                onChange={(e) => setFormInput(e.target.value)} 
                 value={Name} 
                 type="text" 
                 placeholder="Enter your name"></input>
